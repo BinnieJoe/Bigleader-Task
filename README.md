@@ -1,2 +1,4 @@
 # Bigleader-Task
-These are the tasks I worked on while attending the Big Leader AI Academy.
+- Participated in practical exercises and projects at the Big Leader AI Academy.
+- Focused on acquiring comprehensive AI knowledge and problem-solving skills.
+- Explored practical applications of AI through hands-on tasks.
